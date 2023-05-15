@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @israelmulugeta
 - 👀 I’m interested in building interesting apps , websites and working on creative projects
-- 🌱 I’m currently learning javascript, soon will expand into dart ,flatter as well as python
+- 🌱 javascript,react,html,css
 - 💞️ I’m looking to collaborate on any opensource projects that are interesting 
 - 📫 How to reach me www.isrmulu92@gmail.com
 
